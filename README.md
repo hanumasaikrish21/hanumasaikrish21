@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi there 👋, I'm 卄卂几ㄩ爪卂 丂卂丨 Ҝ尺丨丂卄几卂</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
