@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm 卄卂几ㄩ爪卂 丂卂丨 Ҝ尺丨丂卄几卂</h1>
+<h1 align="center">Hi there 👋, I'm Hanuma Sai Krishna</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 - 🔭 I’m currently working on [IITG-SkillSphere.](https://github.com/hanumasaikrish21/IITG-SkillSphere)
