@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Hanuma Sai Krishna</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on [IITG-SkillSphere.](https://github.com/hanumasaikrish21/IITG-SkillSphere)
-
-- 🌱 I’m currently learning **socket io, ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hanumasaikrish21](https://github.com/hanumasaikrish21)
 
